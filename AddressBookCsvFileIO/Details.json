@@ -1,0 +1,52 @@
+[
+  {
+    "FirstName": "Andry",
+    "LastName": "John",
+    "Address": "Vizag",
+    "City": "Vishakapatnam",
+    "State": "AndhraPradedsh",
+    "PhoneNumber": "9876543211",
+    "Email": "abc.def@gmail.com",
+    "Zip": "123456"
+  },
+  {
+    "FirstName": "Josseph",
+    "LastName": "John",
+    "Address": "Vishakapatnam",
+    "City": "Vizag",
+    "State": "AndhraPradedsh",
+    "PhoneNumber": "9876543211",
+    "Email": "abc.def@gmail.com",
+    "Zip": "987654"
+  },
+  {
+    "FirstName": "Kiara",
+    "LastName": "Jaishwal",
+    "Address": "GandhiNagar",
+    "City": "Noida",
+    "State": "Delhi",
+    "PhoneNumber": "9876543211",
+    "Email": "abc.aqw@gmail.com",
+    "Zip": "321456"
+  },
+  {
+    "FirstName": "Kakan",
+    "LastName": "Kowath",
+    "Address": "Shamshabad",
+    "City": "Hyderabad",
+    "State": "Telangana",
+    "PhoneNumber": "9876543211",
+    "Email": "abc.qwe@gmail.com",
+    "Zip": "678543"
+  },
+  {
+    "FirstName": "Sophia",
+    "LastName": "Sein",
+    "Address": "Ramnagar",
+    "City": "Patna",
+    "State": "Bihar",
+    "PhoneNumber": "9876543211",
+    "Email": "abc.def@gmail.com",
+    "Zip": "123765"
+  }
+]
